@@ -11,16 +11,6 @@ function insertion(arr){
 
 insertion([5,3,4,1,2])
 
-
-
-
-
-
-
-
-
-
-
 /*
 Insertion sort:
    [5,3,4,1,2]
@@ -29,3 +19,12 @@ Insertion sort:
    [1,3,4,5,2]
    [1,2,3,4,5]
 */
+/*
+Time compalixity
+worst - O(n^2)
+best - O(n)
+
+space complaxity - O(1)
+*/
+
+
