@@ -13,6 +13,9 @@ function bubbleSort(arr){
                 noSort = false
             }
         }
+        if(noSort) {                
+            break;
+        }
     }
     return arr
 }
