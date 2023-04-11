@@ -21,3 +21,10 @@ function bubbleSort(arr){
 }
 
 bubbleSort([5,3,4,9,8,6])                       
+
+
+/*
+time complixity
+best case - O(n)
+worst case - O(n^2)
+*/
